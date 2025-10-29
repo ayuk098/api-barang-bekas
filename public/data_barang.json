@@ -1,0 +1,653 @@
+{
+    "data_barang": [
+      {
+        "nama_barang": "Converse Chuck Taylor Big Logo",
+        "ukuran": "43 EU",
+        "kondisi": "Bekas, mulus",
+        "brand": "Converse",
+        "kategori": "Sepatu",
+        "deskripsi": "Converse klasik warna hitam, jarang dipakai, nyaman untuk aktivitas sehari-hari.",
+        "harga": "Rp 500.000",
+        "bahan": "Canvas",
+        "kontak_penjual": "081212398765",
+        "lokasi": "Jakarta",
+        "link_gambar": ["https://preloved.co.id/_ipx/w_800,f_webp,q_80,fit_cover/https://assets.preloved.co.id/products/522622/2dbd6ac8-4f23-4e74-913b-41b497197744.jpg",
+                        "https://preloved.co.id/_ipx/f_webp/https://assets.preloved.co.id/products/522622/166e1385-f756-4d58-a1c6-0a57a9299fb3.jpg",
+                        "https://preloved.co.id/_ipx/f_webp/https://assets.preloved.co.id/products/522622/7cc9b23f-ba64-4745-a709-2fe1798e1147.jpg"
+                    ]
+      },
+      {
+      "nama_barang": "Long Pant Uniqlo Brown Jeans",
+      "ukuran": "S",
+      "kondisi": "Bekas, mulus",
+      "brand": "Uniqlo",
+      "kategori": "Celana",
+      "deskripsi": "Celana panjang jeans Uniqlo warna coklat, slim fit, nyaman dipakai, jarang dipakai, masih terlihat seperti baru.",
+      "harga": "Rp 200.000",
+      "bahan": "Denim",
+      "kontak_penjual": "081234567890",
+      "lokasi": "Jakarta",
+      "link_gambar": ["https://preloved.co.id/_ipx/f_webp/https://assets.preloved.co.id/products/681648/deafb528-fc3e-4ff6-81fd-396d854183c8.jpg",
+                    "https://preloved.co.id/_ipx/f_webp/https://assets.preloved.co.id/products/681648/d5feab10-0c64-445a-bbf2-4ed307582c6c.jpg",
+                    "https://preloved.co.id/_ipx/f_webp/https://assets.preloved.co.id/products/681648/279e3f34-2a48-40ea-abf7-2c770295e23d.jpg"
+    ]               
+    },
+
+      {
+        "nama_barang": "Hoodie Charm's",
+        "ukuran": "L",
+        "kondisi": "Sangat baik",
+        "brand": "Charm's",
+        "kategori": "Jaket",
+        "deskripsi": "Hoodie Charm's original, warna netral, nyaman dipakai, kondisi sangat baik, jarang digunakan.",
+        "harga": "Rp 190.000",
+        "bahan": "Cotton Blend",
+        "kontak_penjual": "081234567890",
+        "lokasi": "Jakarta",
+        "link_gambar": ["https://preloved.co.id/_ipx/f_webp/https://assets.preloved.co.id/products/681423/bf683064-1c47-44e7-a0b6-bc82e514799a.jpg",
+                        "https://preloved.co.id/_ipx/f_webp/https://assets.preloved.co.id/products/681423/2627ce91-78e7-4624-b18d-8b447d006daf.jpg",
+                        "https://preloved.co.id/_ipx/f_webp/https://assets.preloved.co.id/products/681423/0f6fc9e6-e825-4c1a-98f5-ea9a0a2c334d.jpg"
+      
+    ]
+      },
+
+      {
+        "nama_barang": "Zipper Hoodie Harvard",
+        "ukuran": "L",
+        "kondisi": "Sangat baik",
+        "brand": "JanSport",
+        "kategori": "Jaket",
+        "deskripsi": "Hoodie zipper model Harvard dari JanSport, kondisi sangat baik, nyaman dipakai, jarang digunakan, warna netral mudah dipadukan.",
+        "harga": "Rp 170.000",
+        "bahan": "Cotton Blend",
+        "kontak_penjual": "081234567890",
+        "lokasi": "Jakarta",
+        "link_gambar": ["https://preloved.co.id/_ipx/f_webp/https://assets.preloved.co.id/products/681449/b99b49c7-0cc0-4587-9053-7c5508765da5.jpg",
+                        "https://preloved.co.id/_ipx/f_webp/https://assets.preloved.co.id/products/681449/63be69e2-c783-4f14-986e-433059e324d8.jpg",
+                        "https://preloved.co.id/_ipx/f_webp/https://assets.preloved.co.id/products/681449/f68643f1-3cc1-4ed9-b6b8-551593d31893.jpg"
+
+      ]
+      },
+      {
+        "nama_barang": "Longchamp Le Pliage Floral LLH Tote",
+        "ukuran": "One size",
+        "kondisi": "Baik",
+        "brand": "Longchamp",
+        "kategori": "Tas",
+        "deskripsi": "Tas Longchamp Le Pliage model Floral LLH Tote, kondisi baik, ringan dan praktis untuk aktivitas sehari-hari, motif bunga cantik.",
+        "harga": "Rp 600.000",
+        "bahan": "Nylon & Leather",
+        "kontak_penjual": "081234567890",
+        "lokasi": "Jakarta",
+        "link_gambar": [
+            "https://preloved.co.id/_ipx/f_webp/https://assets.preloved.co.id/products/677084/edb1d5be-5de8-4388-885d-162401a39b18.jpg",
+            "https://preloved.co.id/_ipx/f_webp/https://assets.preloved.co.id/products/677084/ff4a0fcc-51c9-440b-a451-26d4181ddd9b.jpg",
+            "https://preloved.co.id/_ipx/f_webp/https://assets.preloved.co.id/products/677084/270aaca6-5c92-4461-900a-c8a90191b6d0.jpg"
+            ]
+      },
+      {
+        "nama_barang": "Ripped Denim Jacket",
+        "ukuran": "L",
+        "kondisi": "Sangat baik",
+        "brand": "Local Brand",
+        "kategori": "Jaket",
+        "deskripsi": "Jaket denim model ripped, kondisi sangat baik, nyaman dipakai, cocok untuk style kasual sehari-hari.",
+        "harga": "Rp 130.000",
+        "bahan": "Denim",
+        "kontak_penjual": "081234567890",
+        "lokasi": "Jakarta",
+        "link_gambar": [
+          "https://preloved.co.id/_ipx/f_webp/https://assets.preloved.co.id/products/680529/69c74094-1da9-4838-9ded-642e84ab9647.jpg",
+          "https://preloved.co.id/_ipx/f_webp/https://assets.preloved.co.id/products/680529/785a12f8-1a09-4356-be0a-6ddc9df874c8.jpg",
+          "https://preloved.co.id/_ipx/f_webp/https://assets.preloved.co.id/products/680529/62887942-65e9-4f1c-b036-a4f6f85793f8.jpg"
+        ]
+      },
+      {
+        "nama_barang": "Jaket On Running Trail Breaker Blue",
+        "ukuran": "Other",
+        "kondisi": "Baru dengan tag",
+        "brand": "On Running",
+        "kategori": "Jaket",
+        "deskripsi": "Jaket On Running model Trail Breaker warna biru, kondisi baru dengan tag, ringan, nyaman untuk olahraga atau aktivitas luar ruangan.",
+        "harga": "Rp 175.000",
+        "bahan": "Polyester & Nylon",
+        "kontak_penjual": "081234567890",
+        "lokasi": "Jakarta",
+        "link_gambar": [
+          "https://preloved.co.id/_ipx/f_webp/https://assets.preloved.co.id/products/680479/1a51afc4-1489-468e-bb9b-baa0f3ea868d.jpg",
+          "https://preloved.co.id/_ipx/f_webp/https://assets.preloved.co.id/products/680479/53740229-30be-4925-8948-f3cef0eca3b9.jpg",
+          "https://preloved.co.id/_ipx/f_webp/https://assets.preloved.co.id/products/680479/53740229-30be-4925-8948-f3cef0eca3b9.jpg"
+        ]
+      },
+      {
+        "nama_barang": "Reworked Denim Jacket Wanita Multicolor",
+        "ukuran": "S",
+        "kondisi": "Baik",
+        "brand": "Local Brand",
+        "kategori": "Jaket",
+        "deskripsi": "Jaket denim wanita model reworked dengan motif multicolor, kondisi baik, nyaman dipakai, cocok untuk gaya kasual dan unik.",
+        "harga": "Rp 200.000",
+        "bahan": "Denim",
+        "kontak_penjual": "081234567890",
+        "lokasi": "Jakarta",
+        "link_gambar": [
+          "https://preloved.co.id/_ipx/f_webp/https://assets.preloved.co.id/products/57246/c1257545-1395-4c89-80f4-ef7c4adaa829.jpg",
+          "https://preloved.co.id/_ipx/f_webp/https://assets.preloved.co.id/products/57246/ffe3a300-de4e-4294-8f4d-4eb7aba24e75.jpg",
+          "https://preloved.co.id/_ipx/f_webp/https://assets.preloved.co.id/products/57246/90e9ac1f-7f85-4cbd-a42a-5295c97505dc.jpg"
+        ]
+      },
+      {
+        "nama_barang": "Adidas Gorpcore Indie Sneakers Wanita White Pink",
+        "ukuran": "EU38",
+        "kondisi": "Sangat baik",
+        "brand": "Adidas",
+        "kategori": "Sepatu",
+        "deskripsi": "Sneakers Adidas Gorpcore Indie warna putih dan pink untuk wanita, kondisi sangat baik, jarang dipakai, nyaman untuk jalan-jalan dan aktivitas santai.",
+        "harga": "Rp 1.050.000",
+        "bahan": "Mesh & Rubber",
+        "kontak_penjual": "081234567890",
+        "lokasi": "Jakarta",
+        "link_gambar": [
+          "https://preloved.co.id/_ipx/f_webp/https://assets.preloved.co.id/products/44243/293d6111-417b-42fe-9d89-c34661c1292e.jpg",
+          "https://preloved.co.id/_ipx/f_webp/https://assets.preloved.co.id/products/44243/3dadb325-4e1e-4857-a737-c5ea05e6d1ab.jpg",
+          "https://preloved.co.id/_ipx/f_webp/https://assets.preloved.co.id/products/44243/5beba7db-2121-4184-aec8-27b9aa319333.jpg"
+        ]
+      },
+
+      {
+        "nama_barang": "Adidas Spezial Wonder Mauve Alumina",
+        "ukuran": "EU37",
+        "kondisi": "Sangat baik",
+        "brand": "Adidas",
+        "kategori": "Sepatu",
+        "deskripsi": "Sneakers Adidas Spezial warna Mauve Alumina untuk wanita, kondisi sangat baik, jarang dipakai, desain stylish cocok untuk casual maupun street style.",
+        "harga": "Rp 850.000",
+        "bahan": "Suede & Rubber",
+        "kontak_penjual": "081234567890",
+        "lokasi": "Jakarta",
+        "link_gambar": [
+          "https://preloved.co.id/_ipx/f_webp/https://assets.preloved.co.id/products/619902/8359e9d3-a9fd-4159-bd1b-01582d531735.jpg",
+          "https://preloved.co.id/_ipx/f_webp/https://assets.preloved.co.id/products/619902/68e54641-2af9-4e79-933d-01e0fc28b6c5.jpg",
+          "https://preloved.co.id/_ipx/f_webp/https://assets.preloved.co.id/products/619902/cfa7fee7-7f0f-4ded-b301-62000098ec15.jpg"
+        ]
+      },
+          {
+            "nama_barang": "Puma Speedcat",
+            "ukuran": "EU38.5",
+            "kondisi": "Sangat baik",
+            "brand": "Puma",
+            "kategori": "Sepatu",
+            "deskripsi": "Sneakers Puma Speedcat untuk wanita, kondisi sangat baik, jarang dipakai, desain sporty klasik, nyaman untuk jalan dan aktivitas santai.",
+            "harga": "Rp 600.000",
+            "bahan": "Leather & Rubber",
+            "kontak_penjual": "081234567890",
+            "lokasi": "Jakarta",
+            "link_gambar": [
+              "https://preloved.co.id/_ipx/f_webp/https://assets.preloved.co.id/products/378983/057941bf-1724-4867-9e43-6dd558244b99.jpg",
+              "https://preloved.co.id/_ipx/f_webp/https://assets.preloved.co.id/products/378983/380747dc-43ec-4433-a4ee-d68043e44666.jpg",
+              "https://preloved.co.id/_ipx/f_webp/https://assets.preloved.co.id/products/378983/057941bf-1724-4867-9e43-6dd558244b99.jpg"
+            ]
+      },
+
+      {
+        "nama_barang": "Adidas Samba OG Black White",
+        "ukuran": "EU41",
+        "kondisi": "Sangat baik",
+        "brand": "Adidas",
+        "kategori": "Sepatu",
+        "deskripsi": "Sneakers Adidas Samba OG warna hitam putih, kondisi sangat baik, jarang dipakai, desain klasik cocok untuk street style atau casual.",
+        "harga": "Rp 400.000",
+        "bahan": "Leather & Rubber",
+        "kontak_penjual": "081234567890",
+        "lokasi": "Jakarta",
+        "link_gambar": [
+          "https://preloved.co.id/_ipx/f_webp/https://assets.preloved.co.id/products/463426/60a6c392-ecb4-47ee-92e6-58fb4226830b.jpg",
+          "https://preloved.co.id/_ipx/f_webp/https://assets.preloved.co.id/products/463426/5b47a991-c532-4919-8517-ad92743342db.jpg",
+          "https://preloved.co.id/_ipx/f_webp/https://assets.preloved.co.id/products/463426/e9b14bda-2f7b-44a3-9be7-20dfd67ac53e.jpg"
+        ]
+      },
+      {
+        "nama_barang": "Adidas Spezial Handball Dark Gray",
+        "ukuran": "EU43",
+        "kondisi": "Sangat baik",
+        "brand": "Adidas",
+        "kategori": "Sepatu",
+        "deskripsi": "Sneakers Adidas Spezial model Handball warna abu-abu gelap, kondisi sangat baik, jarang dipakai, nyaman untuk casual dan olahraga ringan.",
+        "harga": "Rp 800.000",
+        "bahan": "Suede & Rubber",
+        "kontak_penjual": "081234567890",
+        "lokasi": "Jakarta",
+        "link_gambar": [
+          "https://preloved.co.id/_ipx/f_webp/https://assets.preloved.co.id/products/565823/64978ce3-142c-461c-aff1-300411774e83.jpg",
+          "https://preloved.co.id/_ipx/f_webp/https://assets.preloved.co.id/products/565823/9f449bd9-68b8-4af9-8e32-fc4937a8b37c.jpg",
+          "https://preloved.co.id/_ipx/f_webp/https://assets.preloved.co.id/products/565823/720c3ef8-acb6-400b-b08a-f89375d7265c.jpg"
+        ]
+      },
+      {
+        "nama_barang": "Asics Gel-1130 Black Pure Silver",
+        "ukuran": "EU42",
+        "kondisi": "Sangat baik",
+        "brand": "Asics",
+        "kategori": "Sepatu",
+        "deskripsi": "Sneakers Asics Gel-1130 warna Black Pure Silver, kondisi sangat baik, jarang dipakai, nyaman untuk olahraga maupun casual, desain modern dan stylish.",
+        "harga": "Rp 1.150.000",
+        "bahan": "Mesh & Rubber",
+        "kontak_penjual": "081234567890",
+        "lokasi": "Jakarta",
+        "link_gambar": [
+          "https://preloved.co.id/_ipx/f_webp/https://assets.preloved.co.id/products/679980/dd346abb-dc50-4e47-a804-a5bd16ab7394.jpg",
+          "https://preloved.co.id/_ipx/f_webp/https://assets.preloved.co.id/products/679980/8fc3568d-d6fe-47d5-9316-6580a1324e01.jpg",
+          "https://preloved.co.id/_ipx/f_webp/https://assets.preloved.co.id/products/679980/3ac15b36-68d8-4dba-ac24-672a17b7979e.jpg"
+        ]
+      },
+      {
+        "nama_barang": "Red Pepper Flared Fading Jeans",
+        "ukuran": "Other",
+        "kondisi": "Sangat baik",
+        "brand": "Red Pepper",
+        "kategori": "Celana",
+        "deskripsi": "Celana jeans Red Pepper model flared dengan efek fading, kondisi sangat baik, nyaman dipakai, cocok untuk tampilan kasual dan stylish.",
+        "harga": "Rp 380.000",
+        "bahan": "Denim",
+        "kontak_penjual": "081234567890",
+        "lokasi": "Jakarta",
+        "link_gambar": [
+          "https://preloved.co.id/_ipx/f_webp/https://assets.preloved.co.id/products/409235/0b92d9e9-63aa-4acf-80dd-6ba11f8c7783.jpg",
+          "https://preloved.co.id/_ipx/f_webp/https://assets.preloved.co.id/products/409235/65d854b2-644a-435d-b8a0-8e1245905c9c.jpg",
+          "https://preloved.co.id/_ipx/f_webp/https://assets.preloved.co.id/products/409235/952c2597-f91e-4de7-b1b5-8479054c3bcb.jpg"
+        ]
+      },
+      {
+        "nama_barang": "CO&LU Biker Jeans Pria Navy",
+        "ukuran": "One size",
+        "kondisi": "Sangat baik",
+        "brand": "CO&LU",
+        "kategori": "Celana",
+        "deskripsi": "Celana biker jeans pria dari CO&LU warna navy, kondisi sangat baik, nyaman dipakai, cocok untuk gaya kasual dan street style.",
+        "harga": "Rp 350.000",
+        "bahan": "Denim",
+        "kontak_penjual": "081234567890",
+        "lokasi": "Jakarta",
+        "link_gambar": [
+          "https://preloved.co.id/_ipx/f_webp/https://assets.preloved.co.id/products/167246/1d0f1cb6-28c8-4499-96c2-dfa917f55b61.jpg",
+          "https://preloved.co.id/_ipx/f_webp/https://assets.preloved.co.id/products/167246/55098cc7-0ab9-4730-984c-09162e7f9f96.jpg",
+          "https://preloved.co.id/_ipx/f_webp/https://assets.preloved.co.id/products/167246/ff6333eb-3cfb-405c-8e0f-47f4b3935f67.jpg"
+        ]
+      },
+      {
+        "nama_barang": "Uniqlo Corduroy Baggy Pants",
+        "ukuran": "M",
+        "kondisi": "Baru tanpa tag",
+        "brand": "Uniqlo",
+        "kategori": "Celana",
+        "deskripsi": "Celana corduroy model baggy dari Uniqlo, kondisi baru tanpa tag, nyaman dipakai, cocok untuk tampilan kasual sehari-hari.",
+        "harga": "Rp 171.000",
+        "bahan": "Corduroy",
+        "kontak_penjual": "081234567890",
+        "lokasi": "Jakarta",
+        "link_gambar": [
+          "https://preloved.co.id/_ipx/f_webp/https://assets.preloved.co.id/products/534929/59ee74a2-55b6-4875-bced-450b1cb2664d.jpg",
+          "https://preloved.co.id/_ipx/f_webp/https://assets.preloved.co.id/products/534929/34d09958-0846-49fc-ac7f-6e3aab4ab85e.jpg",
+          "https://preloved.co.id/_ipx/f_webp/https://assets.preloved.co.id/products/534929/b43f6d0f-7919-4a51-ba19-f98f7c5a0bf3.jpg"
+        ]
+      },
+      {
+        "nama_barang": "Uniqlo Balloon Jeans",
+        "ukuran": "M",
+        "kondisi": "Baru dengan tag",
+        "brand": "Uniqlo",
+        "kategori": "Celana",
+        "deskripsi": "Celana balloon jeans dari Uniqlo, kondisi baru dengan tag, nyaman dipakai, cocok untuk tampilan kasual modern.",
+        "harga": "Rp 295.000",
+        "bahan": "Denim",
+        "kontak_penjual": "081234567890",
+        "lokasi": "Jakarta",
+        "link_gambar": [
+          "https://preloved.co.id/_ipx/f_webp/https://assets.preloved.co.id/products/404556/55a2e0c3-9056-486a-aaf8-54e668d7a984.jpg",
+          "https://preloved.co.id/_ipx/f_webp/https://assets.preloved.co.id/products/404556/38ef767d-2e8e-466b-84d4-434b8bddd0fc.jpg",
+          "https://preloved.co.id/_ipx/f_webp/https://assets.preloved.co.id/products/404556/4cbec0ac-92c7-459d-9b74-20f2851977e7.jpg"
+        ]
+      },
+      {
+        "nama_barang": "Uniqlo Luxury Casual Wide Leg Jeans Wanita Navy Black",
+        "ukuran": "L",
+        "kondisi": "Sangat baik",
+        "brand": "Uniqlo",
+        "kategori": "Celana",
+        "deskripsi": "Celana jeans wanita model wide leg dari Uniqlo warna navy black, kondisi sangat baik, nyaman dipakai, cocok untuk tampilan kasual stylish.",
+        "harga": "Rp 170.000",
+        "bahan": "Denim",
+        "kontak_penjual": "081234567890",
+        "lokasi": "Jakarta",
+        "link_gambar": [
+          "https://preloved.co.id/_ipx/f_webp/https://assets.preloved.co.id/products/157641/cf85d096-eea2-4130-8069-9ef5b6b31f5f.jpg",
+          "https://preloved.co.id/_ipx/f_webp/https://assets.preloved.co.id/products/157641/536c9338-2942-4dec-b977-79972974ebcb.jpg",
+          "https://preloved.co.id/_ipx/f_webp/https://assets.preloved.co.id/products/157641/d6c91240-e3bf-48d1-9581-6871228f2240.jpg"
+        ]
+      },
+      {
+        "nama_barang": "Uniqlo Denim Jacket Type 1",
+        "ukuran": "M",
+        "kondisi": "Sangat baik",
+        "brand": "Uniqlo",
+        "kategori": "Jaket",
+        "deskripsi": "Jaket denim Uniqlo Type 1, kondisi sangat baik, nyaman dipakai, cocok untuk tampilan kasual sehari-hari dan mudah dipadukan dengan berbagai outfit.",
+        "harga": "Rp 245.000",
+        "bahan": "Denim",
+        "kontak_penjual": "081234567890",
+        "lokasi": "Jakarta",
+        "link_gambar": [
+          "https://preloved.co.id/_ipx/f_webp/https://assets.preloved.co.id/products/463906/64df6460-1d07-412e-ad84-4693a8e4b4c7.jpg",
+          "https://preloved.co.id/_ipx/f_webp/https://assets.preloved.co.id/products/463906/f63044cb-3c2a-4b0f-801a-cc91548af670.jpg",
+          "https://preloved.co.id/_ipx/f_webp/https://assets.preloved.co.id/products/463906/304ec017-e454-44d2-82e0-943628cf0964.jpg"
+        ]
+      },
+      {
+        "nama_barang": "Uniqlo Vintage Casual Leather Jacket Pria Black",
+      "ukuran": "L",
+      "kondisi": "Baik",
+      "brand": "Uniqlo",
+      "kategori": "Jaket",
+      "deskripsi": "Jaket kulit pria dari Uniqlo model vintage casual warna hitam, kondisi baik, nyaman dipakai, cocok untuk gaya kasual dan semi-formal.",
+      "harga": "Rp 200.000",
+      "bahan": "Leather",
+      "kontak_penjual": "081234567890",
+      "lokasi": "Jakarta",
+      "link_gambar": [
+        "https://preloved.co.id/_ipx/f_webp/https://assets.preloved.co.id/products/217848/bf261f15-405e-4f86-9ff7-ef9ea3fa722d.jpg",
+        "https://preloved.co.id/_ipx/f_webp/https://assets.preloved.co.id/products/217848/03987555-c963-4c4f-b176-7531923d37d5.jpg",
+        "https://preloved.co.id/_ipx/f_webp/https://assets.preloved.co.id/products/217848/f1565055-2058-43f6-9627-0ec1247e8da6.jpg"
+      ]
+      },
+      {
+      "nama_barang": "H&M Grunge Indie Denim Jacket Pria Green",
+      "ukuran": "L",
+      "kondisi": "Sangat baik",
+      "brand": "H&M",
+      "kategori": "Jaket",
+      "deskripsi": "Jaket denim pria dari H&M model grunge indie warna hijau, kondisi sangat baik, nyaman dipakai, cocok untuk gaya kasual dan street style.",
+      "harga": "Rp 185.000",
+      "bahan": "Denim",
+      "kontak_penjual": "081234567890",
+      "lokasi": "Jakarta",
+      "link_gambar": [
+        "https://preloved.co.id/_ipx/f_webp/https://assets.preloved.co.id/products/16044/3570c156-4e56-4801-b33b-a67c0df85a85.jpg",
+        "https://preloved.co.id/_ipx/f_webp/https://assets.preloved.co.id/products/16044/080e1abd-75cc-4046-9948-e9032c75a600.jpg",
+        "https://preloved.co.id/_ipx/f_webp/https://assets.preloved.co.id/products/16044/71ff4f02-d5f3-4952-a71f-5fbffb2e6211.jpg"
+      ]
+      },
+      {
+        "nama_barang": "Dickies Backpack",
+      "ukuran": "One size",
+      "kondisi": "Sangat baik",
+      "brand": "Dickies",
+      "kategori": "Tas",
+      "deskripsi": "Tas ransel Dickies, kondisi sangat baik, nyaman dipakai untuk aktivitas sehari-hari, desain stylish dan tahan lama.",
+      "harga": "Rp 450.000",
+      "bahan": "Polyester",
+      "kontak_penjual": "081234567890",
+      "lokasi": "Jakarta",
+      "link_gambar": [
+        "https://preloved.co.id/_ipx/f_webp/https://assets.preloved.co.id/products/681698/928a8518-5dce-4d79-bb0a-b9f3caf1be50.jpg",
+        "https://preloved.co.id/_ipx/f_webp/https://assets.preloved.co.id/products/681698/bc2d5de3-5781-4138-a044-1fcd9a706f2b.jpg",
+        "https://preloved.co.id/_ipx/f_webp/https://assets.preloved.co.id/products/681698/5360374b-5b81-49f5-b4c1-2c44e4ba11c4.jpg"
+      ]
+      },
+      {
+    "nama_barang": "Air Jordan Backpack",
+      "ukuran": "One size",
+      "kondisi": "Sangat baik",
+      "brand": "Nike Air Jordan",
+      "kategori": "Tas",
+      "deskripsi": "Tas ransel Air Jordan, kondisi sangat baik, nyaman dipakai untuk aktivitas sehari-hari, desain sporty dan stylish.",
+      "harga": "Rp 350.000",
+      "bahan": "Polyester",
+      "kontak_penjual": "081234567890",
+      "lokasi": "Jakarta",
+      "link_gambar": [
+        "https://preloved.co.id/_ipx/f_webp/https://assets.preloved.co.id/products/681690/74985f4f-0b6d-4c48-b9df-5c1f5b6f5625.jpg",
+        "https://preloved.co.id/_ipx/f_webp/https://assets.preloved.co.id/products/681690/f0e57df5-e0fe-421f-bbd9-8d6fc7b3a5fc.jpg",
+        "https://preloved.co.id/_ipx/f_webp/https://assets.preloved.co.id/products/681690/7a4ebc3a-e661-4c85-b8d3-34e85b82f28d.jpg"
+      ]
+      },
+      {
+        "nama_barang": "Backpack Kecil Unisex Converse New",
+      "ukuran": "One size",
+      "kondisi": "Baru dengan tag",
+      "brand": "Converse",
+      "kategori": "Tas",
+      "deskripsi": "Tas ransel kecil unisex dari Converse, kondisi baru dengan tag, praktis untuk aktivitas sehari-hari, desain stylish dan ringan.",
+      "harga": "Rp 370.000",
+      "bahan": "Polyester",
+      "kontak_penjual": "081234567890",
+      "lokasi": "Jakarta",
+      "link_gambar": [
+        "https://preloved.co.id/_ipx/f_webp/https://assets.preloved.co.id/products/515494/a31a1d73-db6d-41e2-a7e1-7b69912a0127.jpg",
+        "https://preloved.co.id/_ipx/f_webp/https://assets.preloved.co.id/products/515494/56703bfe-da5a-45ff-a3cf-4f920507a8ac.jpg",
+        "https://preloved.co.id/_ipx/f_webp/https://assets.preloved.co.id/products/515494/694341a7-ee25-4429-8aba-57e639828aec.jpg"
+      ]
+      },
+      {
+        "nama_barang": "Crossbody Nike",
+      "ukuran": "One size",
+      "kondisi": "Memuaskan",
+      "brand": "Nike",
+      "kategori": "Tas",
+      "deskripsi": "Tas crossbody dari Nike, kondisi memuaskan, nyaman dipakai, praktis untuk aktivitas sehari-hari, desain sporty dan stylish.",
+      "harga": "Rp 300.000",
+      "bahan": "Polyester",
+      "kontak_penjual": "081234567890",
+      "lokasi": "Jakarta",
+      "link_gambar": [
+        "https://preloved.co.id/_ipx/f_webp/https://assets.preloved.co.id/products/646420/f33cfb86-98d7-4525-95b2-0e7f4faa5347.jpg",
+        "https://preloved.co.id/_ipx/f_webp/https://assets.preloved.co.id/products/646420/55d315a0-0a07-48b8-81ae-d40a9359b547.jpg",
+        "https://preloved.co.id/_ipx/f_webp/https://assets.preloved.co.id/products/646420/f7af66b3-6bdd-4629-9d02-4ca02141901f.jpg"
+      ]
+      },
+      {
+        "nama_barang": "Nike Duffle Bag Big Size",
+      "ukuran": "One size",
+      "kondisi": "Sangat baik",
+      "brand": "Nike",
+      "kategori": "Tas",
+      "deskripsi": "Tas duffle ukuran besar dari Nike, kondisi sangat baik, nyaman untuk olahraga, traveling, atau aktivitas sehari-hari, desain sporty dan tahan lama.",
+      "harga": "Rp 277.000",
+      "bahan": "Polyester",
+      "kontak_penjual": "081234567890",
+      "lokasi": "Jakarta",
+      "link_gambar": [
+        "https://preloved.co.id/_ipx/f_webp/https://assets.preloved.co.id/products/649777/c04ac44f-1678-4131-bd76-fb5591e915f9.jpg",
+        "https://preloved.co.id/_ipx/f_webp/https://assets.preloved.co.id/products/649777/79cce968-f790-46b4-9a83-87ea7de0c85f.jpg",
+        "https://preloved.co.id/_ipx/f_webp/https://assets.preloved.co.id/products/649777/fdfd4dee-b447-46f2-a1db-38749b5218b0.jpg"
+      ]
+      },
+      {
+        "nama_barang": "Topi Nike Golf",
+      "ukuran": "One size",
+      "kondisi": "Sangat baik",
+      "brand": "Nike",
+      "kategori": "Aksesoris",
+      "deskripsi": "Topi Nike Golf, kondisi sangat baik, nyaman dipakai, cocok untuk olahraga dan aktivitas outdoor, desain sporty dan stylish.",
+      "harga": "Rp 150.000",
+      "bahan": "Polyester",
+      "kontak_penjual": "081234567890",
+      "lokasi": "Jakarta",
+      "link_gambar": [
+        "https://preloved.co.id/_ipx/f_webp/https://assets.preloved.co.id/products/641204/3007295f-dceb-474c-9c2d-b663017546dd.jpg",
+        "https://preloved.co.id/_ipx/f_webp/https://assets.preloved.co.id/products/641204/957a3bfc-de7a-448d-9a54-f53418b0673e.jpg",
+        "https://preloved.co.id/_ipx/f_webp/https://assets.preloved.co.id/products/641204/79c49c6d-ca17-4cbd-b5e7-da44156597ee.jpg"
+      ]
+      },
+      {
+        "nama_barang": "Topi Anderson Bell",
+      "ukuran": "One size",
+      "kondisi": "Sangat baik",
+      "brand": "Anderson Bell",
+      "kategori": "Aksesoris",
+      "deskripsi": "Topi dari Anderson Bell, kondisi sangat baik, nyaman dipakai, cocok untuk tampilan kasual dan stylish sehari-hari.",
+      "harga": "Rp 180.000",
+      "bahan": "Cotton",
+      "kontak_penjual": "081234567890",
+      "lokasi": "Jakarta",
+      "link_gambar": [
+        "https://preloved.co.id/_ipx/f_webp/https://assets.preloved.co.id/products/644238/659ce577-1885-4578-bc84-cba160b0865a.jpg",
+        "https://preloved.co.id/_ipx/f_webp/https://assets.preloved.co.id/products/644238/8544e6e3-25df-4c69-b689-8e0efe4dae0c.jpg",
+        "https://preloved.co.id/_ipx/f_webp/https://assets.preloved.co.id/products/644238/3d88e2b4-20f0-4e11-8af2-a0bfd35d2690.jpg"
+      ]
+      },
+      {
+        "nama_barang": "Topi Nike Spellout Abu dan Orange",
+      "ukuran": "One size",
+      "kondisi": "Sangat baik",
+      "brand": "Nike",
+      "kategori": "Aksesoris",
+      "deskripsi": "Topi Nike model Spellout warna abu dan orange, kondisi sangat baik, nyaman dipakai, cocok untuk olahraga maupun gaya kasual sehari-hari.",
+      "harga": "Rp 150.000",
+      "bahan": "Cotton",
+      "kontak_penjual": "081234567890",
+      "lokasi": "Jakarta",
+      "link_gambar": [
+        "https://preloved.co.id/_ipx/f_webp/https://assets.preloved.co.id/products/648615/6ef7c30f-d20a-4f82-aadf-55ad0c0ccff2.jpg",
+        "https://preloved.co.id/_ipx/f_webp/https://assets.preloved.co.id/products/648615/b7b75286-926b-4c5f-be5a-f871be2e81fd.jpg",
+        "https://preloved.co.id/_ipx/f_webp/https://assets.preloved.co.id/products/648615/3aae2126-203b-43ab-805e-18908551dfdd.jpg"
+      ]
+      },
+      {
+        "nama_barang": "Kemeja Colorbox",
+        "ukuran": "M",
+        "kondisi": "Sangat baik",
+        "brand": "Colorbox",
+        "kategori": "Kemeja",
+        "deskripsi": "Kemeja Colorbox ukuran M, kondisi sangat baik, nyaman dipakai, cocok untuk tampilan kasual maupun semi-formal sehari-hari.",
+        "harga": "Rp 50.000",
+        "bahan": "Cotton",
+        "kontak_penjual": "081234567890",
+        "lokasi": "Jakarta",
+        "link_gambar": [
+          "https://preloved.co.id/_ipx/f_webp/https://assets.preloved.co.id/products/677067/99158e2b-3117-47be-a6ae-e800618edeb7.jpg",
+          "https://preloved.co.id/_ipx/f_webp/https://assets.preloved.co.id/products/677067/f4a0f764-be37-44bb-8167-e871b10fd6b2.jpg",
+          "https://preloved.co.id/_ipx/f_webp/https://assets.preloved.co.id/products/677067/b3efd47f-a8a7-4b62-ae8d-18ccd5846e2e.jpg"
+        ]
+      },
+      {
+        "nama_barang": "Kemeja Pink Garis-garis",
+      "ukuran": "L",
+      "kondisi": "Sangat baik",
+      "brand": "Colorbox",
+      "kategori": "Kemeja",
+      "deskripsi": "Kemeja Colorbox warna pink dengan motif garis-garis, ukuran L, kondisi sangat baik, nyaman dipakai, cocok untuk tampilan kasual maupun semi-formal.",
+      "harga": "Rp 100.000",
+      "bahan": "Cotton",
+      "kontak_penjual": "081234567890",
+      "lokasi": "Jakarta",
+      "link_gambar": [
+        "https://preloved.co.id/_ipx/f_webp/https://assets.preloved.co.id/products/326226/2d55f5d4-5fda-4153-9f90-da39a74c2229.jpg",
+        "https://preloved.co.id/_ipx/f_webp/https://assets.preloved.co.id/products/326226/448b0260-bc8c-4ec4-8d0b-1509091408f8.jpg",
+        "https://preloved.co.id/_ipx/f_webp/https://assets.preloved.co.id/products/326226/2d55f5d4-5fda-4153-9f90-da39a74c2229.jpg"
+      ]
+      },
+      {
+        "nama_barang": "PLAY CDG Salur",
+      "ukuran": "L",
+      "kondisi": "Sangat baik",
+      "brand": "COMME des GARÇONS",
+      "kategori": "Kemeja",
+      "deskripsi": "Kemeja PLAY CDG model salur, ukuran L, kondisi sangat baik, nyaman dipakai, cocok untuk tampilan kasual maupun semi-formal, desain eksklusif khas COMME des GARÇONS.",
+      "harga": "Rp 360.000",
+      "bahan": "Cotton",
+      "kontak_penjual": "081234567890",
+      "lokasi": "Jakarta",
+      "link_gambar": [
+        "https://preloved.co.id/_ipx/f_webp/https://assets.preloved.co.id/products/427337/f978bb0e-dc0b-4df8-a1e2-9c7eca43465f.jpg",
+        "https://preloved.co.id/_ipx/f_webp/https://assets.preloved.co.id/products/427337/484e7b36-84d9-45bc-96a9-73b9a0b4e425.jpg",
+        "https://preloved.co.id/_ipx/f_webp/https://assets.preloved.co.id/products/427337/a6c3ac3c-7cc7-4fd4-99d0-8b6d095d0540.jpg"
+      ]
+      },
+      {
+        "nama_barang": "Vintage Uniqlo Flannel Brown Shirts",
+        "ukuran": "M",
+        "kondisi": "Sangat baik",
+        "brand": "Uniqlo",
+        "kategori": "Kemeja",
+        "deskripsi": "Kemeja flannel vintage dari Uniqlo warna cokelat, ukuran M, kondisi sangat baik, nyaman dipakai, cocok untuk tampilan kasual dan layering di musim dingin.",
+        "harga": "Rp 190.000",
+        "bahan": "Flannel",
+        "kontak_penjual": "081234567890",
+        "lokasi": "Jakarta",
+        "link_gambar": [
+          "https://preloved.co.id/_ipx/f_webp/https://assets.preloved.co.id/products/330001/880c2a40-f8f9-48b1-b839-f41025fc2e0a.jpg",
+          "https://preloved.co.id/_ipx/f_webp/https://assets.preloved.co.id/products/330001/e18547d7-49d5-4c29-88d9-397cb0147f5a.jpg",
+          "https://preloved.co.id/_ipx/f_webp/https://assets.preloved.co.id/products/330001/9b5ba58f-61f1-41f4-b78b-32ed787fb3a9.jpg"
+        ]
+      },
+      {
+        "nama_barang": "H&M Casual Shirt Wanita Black",
+      "ukuran": "M",
+      "kondisi": "Sangat baik",
+      "brand": "H&M",
+      "kategori": "Kemeja",
+      "deskripsi": "Kemeja casual wanita dari H&M warna hitam, ukuran M, kondisi sangat baik, nyaman dipakai, cocok untuk tampilan kasual sehari-hari maupun semi-formal.",
+      "harga": "Rp 75.000",
+      "bahan": "Cotton",
+      "kontak_penjual": "081234567890",
+      "lokasi": "Jakarta",
+      "link_gambar": [
+        "https://preloved.co.id/_ipx/f_webp/https://assets.preloved.co.id/products/291005/077f4072-ef25-4501-8c2f-ed1e929dacd9.jpg",
+        "https://preloved.co.id/_ipx/f_webp/https://assets.preloved.co.id/products/291005/defcae92-cb09-4be8-81e6-0700b4e85676.jpg",
+        "https://preloved.co.id/_ipx/f_webp/https://assets.preloved.co.id/products/291005/077f4072-ef25-4501-8c2f-ed1e929dacd9.jpg"
+      ]
+      },
+      {
+        "nama_barang": "H&M Casual Blouse Wanita Black",
+      "ukuran": "L",
+      "kondisi": "Baru tanpa tag",
+      "brand": "H&M",
+      "kategori": "Kemeja",
+      "deskripsi": "Blouse casual wanita dari H&M warna hitam, ukuran L, kondisi baru tanpa tag, nyaman dipakai, cocok untuk tampilan kasual maupun semi-formal.",
+      "harga": "Rp 116.000",
+      "bahan": "Cotton",
+      "kontak_penjual": "081234567890",
+      "lokasi": "Jakarta",
+      "link_gambar": [
+        "https://preloved.co.id/_ipx/f_webp/https://assets.preloved.co.id/products/226440/b292db74-a09b-4ff4-84e8-6d08d76e90be.jpg",
+        "https://preloved.co.id/_ipx/f_webp/https://assets.preloved.co.id/products/226440/a33ccc1a-7066-44d0-a5ca-a0445f38eb8b.jpg",
+        "https://preloved.co.id/_ipx/f_webp/https://assets.preloved.co.id/products/226440/695b3772-c84b-4ebd-92b4-9656556322eb.jpg"
+      ]
+      },
+      {
+        "nama_barang": "T-Shirt UT Uniqlo Aladdin Size S",
+      "ukuran": "S",
+      "kondisi": "Sangat baik",
+      "brand": "Uniqlo",
+      "kategori": "Kaos",
+      "deskripsi": "Kaos Uniqlo UT edisi Aladdin, ukuran S, kondisi sangat baik, nyaman dipakai, cocok untuk tampilan kasual sehari-hari.",
+      "harga": "Rp 95.000",
+      "bahan": "Cotton",
+      "kontak_penjual": "081234567890",
+      "lokasi": "Jakarta",
+      "link_gambar": [
+        "https://preloved.co.id/_ipx/f_webp/https://assets.preloved.co.id/products/389/1.jpg",
+        "https://preloved.co.id/_ipx/f_webp/https://assets.preloved.co.id/products/389/11.jpg",
+        "https://preloved.co.id/_ipx/f_webp/https://assets.preloved.co.id/products/389/111.jpg"
+      ]
+      },
+      {
+        "nama_barang": "Uniqlo Vintage Casual T-shirt Pria Black",
+      "ukuran": "XXL",
+      "kondisi": "Sangat baik",
+      "brand": "Uniqlo",
+      "kategori": "Kaos",
+      "deskripsi": "Kaos vintage casual pria dari Uniqlo warna hitam, ukuran XXL, kondisi sangat baik, nyaman dipakai, cocok untuk tampilan kasual sehari-hari.",
+      "harga": "Rp 249.000",
+      "bahan": "Cotton",
+      "kontak_penjual": "081234567890",
+      "lokasi": "Jakarta",
+      "link_gambar": [
+        "https://preloved.co.id/_ipx/f_webp/https://assets.preloved.co.id/products/165334/3b8a73c2-8a68-426f-9ae2-53d362eead6b.jpg",
+        "https://preloved.co.id/_ipx/f_webp/https://assets.preloved.co.id/products/165334/91e59317-b21e-4f1e-b77a-0ed6e501a62a.jpg",
+        "https://preloved.co.id/_ipx/f_webp/https://assets.preloved.co.id/products/165334/399ca67a-76c8-49a6-9f80-282833c2268c.jpg"
+      ]
+      }
+    ]
+  }
+  
